@@ -1,3 +1,4 @@
+use rand::Rng;
 use std::io;
 
 // Define struct for each character
